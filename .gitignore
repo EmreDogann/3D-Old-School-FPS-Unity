@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Wolf3D Assets/*
+Assets/MP40/*/RAW/*
+Assets/MyPackages/nu Assets/Easy Decal/Demo
+Assets/MyPackages/nu Assets/Easy Decal/Texture
+Assets/BloodDecalsAndEffects/Textures
+Assets/BloodDecalsAndEffects/BloodHandsFeetAndDetails
+Assets/SpriteSheetAll
+.vscode/
+desktop.ini
